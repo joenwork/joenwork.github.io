@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Joseph Nee / About Me"
+title                    : "Joseph Nee"
 title_separator          : "-"
 name                     : &name "Joseph Nee"
 description              : &description "personal description"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "joseph_nee"
+  youtube          :
   wikipedia        :
 
 

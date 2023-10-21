@@ -1,6 +1,6 @@
 ---
 title: "RsRS"
-excerpt: "Restaurant Recommendation System"
+excerpt: "A Restaurant Recommendation System"
 collection: portfolio
 ---
 
