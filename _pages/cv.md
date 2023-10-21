@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * B.S. in ZUST: 2016 - 2020
 * M.S. in ECUST: 2022 - Present
 
 Work experience
-======
+------
 * Java Software Engineer: 2020 - 2021
   * JointCom
   * Location: Hangzhou, CN
@@ -23,7 +23,7 @@ Work experience
 
   
 Skills
-======
+------
 * Java Software Development
   * Spring Boot
   * Database
@@ -37,7 +37,7 @@ Skills
   * Apple Ecosystem Application Development
 
 Publications
-======
+------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -64,5 +64,5 @@ Publications
 [//]: # (  {% endfor %}</ul>)
   
 Service and leadership
-======
+------
 * Currently signed in to 43 different slack teams
