@@ -19,5 +19,5 @@ Research Interests
 
 Job Hunting
 ------
-Looking for an internship in Large Language Model Lab
+Looking for a long-term internship in Large Language Model Lab
 
