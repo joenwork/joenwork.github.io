@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Shanghai, CN"
-title                    : "Joseph Nee"
+locale                   : "zh-CN"
+title                    : "Joseph Nee / About Me"
 title_separator          : "-"
 name                     : &name "Joseph Nee"
 description              : &description "personal description"
@@ -73,16 +73,16 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Joseph Nee / About Me"
+  name             : "Joseph Nee"
   avatar           : "avator.jpg"
-  bio              : "Hello there!"
+  bio              : "Hello there, this is Joe!"
   location         : "Shanghai, CN"
   employer         :
   pubmed           :
