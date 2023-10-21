@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Shanghai, CN"
-title                    : "Joseph Nee / 倪杰"
+title                    : "Joseph Nee"
 title_separator          : "-"
 name                     : &name "Joseph Nee"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Joseph Nee"
   avatar           : "avator.jpg"
-  bio              : "Interest: Recommendation System, Contrastive Learning, Reinforcement Learning and more..."
+  bio              :
   location         : "Shanghai, CN"
   employer         :
   pubmed           :
