@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Joseph Nee"
+title                    : "Oren Nee"
 title_separator          : "-"
-name                     : &name "Joseph Nee"
+name                     : &name "Oren Nee"
 description              : &description "personal description"
 url                      : https://joenwork.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "joenwork/joenwork.github.io"
+repository               : "orennee/orennee.page"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : 
-  email            : "joseph.nee.public@outlook.com"
+  email            : "oren.nee.public@outlook.com"
   researchgate     :
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "joenwork"
+  github           : "orennee"
   google_plus      :
   keybase          :
   instagram        : "nejoy_j"
